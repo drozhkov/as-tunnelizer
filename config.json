@@ -1,0 +1,7 @@
+{
+    "mode": "server",
+    "port": 3389,
+    "host": "localhost",
+    "server-host": "81.176.228.60",
+    "server-port": 3389
+}
